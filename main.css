@@ -1,0 +1,24 @@
+.untracked-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+
+}
+
+/************/
+button {
+  width:  230px;
+  height: 35px;
+  margin: 3px;
+  border-radius: 3px;
+}
+
+.track-package {
+  background-image: linear-gradient(to top, #F1C558, #F4E2B9);
+  border: 2px solid #C9B68A;
+}
+
+.untracked-package {
+  background-image: linear-gradient(to top, #E7E9EC, #F6F8F9);
+  border: 2px solid #BEC2C6;
+}
